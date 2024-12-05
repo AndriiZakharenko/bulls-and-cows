@@ -16,8 +16,3 @@ Implemented`Bulls and cows` game so the user can run and play it using command l
 Computer makes `1234`, user prints `1345`. The result is one `bull` (guessed
 digit `1` is on it's place) and 2 `cows` (digits `3` and `4` are present but on
 wrong places).
-
-
-## Demo Links
-
-- [DEMO LINK](https://AndriiZakharenko.github.io/node_bulls-and-cows/)

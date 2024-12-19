@@ -14,10 +14,6 @@
 - Prettier
 - Jest
 
-### Demo links
-
-- [Demo](https://AndriiZakharenko.github.io/tree-from-object/)
-
 ### Example
 
 - Computer makes `1234`, user prints `1345`. The result is one `bull` (guessed digit `1` is on it's place) and 2 `cows` (digits `3` and `4` are present but on wrong places)
